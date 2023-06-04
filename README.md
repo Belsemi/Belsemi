@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="java,css,html,js,mysql,firebase,git,github,vscode,springboot" />
+    <img src="java,css,html,js,mysql,firebase,git,github,vscode,react" />
   </a>
 </p>
 <br>
