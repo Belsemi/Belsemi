@@ -8,15 +8,15 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 ACTUAL ESTUDIANTE DE DESARROLLO DE SOFTWARE
 
-🎥 PEQUEÑÍSISIMO CREADOR DE CONTENIDO que intenta trasmitir sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 DOMINIO DE INGLES A2
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 ACTUALMENTE ME ESTOY ESPECIALIZANDO  EN EL BACKEND PERO ME GUSTARIA EN UN FUTURO SER FULL STACK
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 ACTUALMENTE ESTOY APRENDIENDO SPRING BOOT
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **sql2052@outlook.com**
 <!--Intro end-->
   </p>
 <br>
@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,css,html,js,mysql,firebase,git,github,vscode,ps&perline=12" />
   </a>
 </p>
 <br>
