@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Miguel✨ </h1> 
   
 <p align="left">
-<a href="https://www.instagram.com/miguel_avilagj/" target="blank"><img align="center" src="  https://img.shields.io/twitter/url?color=gray&label=Instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fmiguel_avilagj%2F" alt="unsimpledev"  /></a>
+<a href="https://www.instagram.com/miguel_avilagj/" ><img align="center" src="  https://img.shields.io/twitter/url?color=gray&label=Instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fmiguel_avilagj%2F"   /></a>
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
