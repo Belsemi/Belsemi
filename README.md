@@ -4,12 +4,10 @@
 <a href = "https://www.instagram.com/miguel_avilagj/" target="blank"><img align="center" src="https://img.shields.io/twitter/url?color=gray&label=Instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fmiguel_avilagj%2F" alt="@unsimpledev"  /></a>
   </p>
 
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi 😃 💻 </h2>
 <!--Intro start-->
 
 <p align="left">
-
-💻 BACK-END 
 
 🎥 INGLES A2
 
