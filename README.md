@@ -2,7 +2,7 @@
   
 <p align="center">
 
-<img src="github.PNG" alt="Descripción de la imagen">
+<img src="https://trumpwallpapers.com/wp-content/uploads/Anime-Wallpaper-02-2048x1152-1.jpg" alt="Descripción de la imagen">
   
 <a href = "https://www.instagram.com/miguel_avilagj/" target="blank"><img align="center" src="https://img.shields.io/twitter/url?color=gray&label=Instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fmiguel_avilagj%2F" alt="@unsimpledev"  /></a>
   </p>
