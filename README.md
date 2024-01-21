@@ -9,7 +9,7 @@
 
 <p align="left">
 
-💻 BACK-END 
+💻 
 
 🎥 INGLES A2
 
