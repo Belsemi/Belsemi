@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋  soy Miguel✨ </h1> 
   
 <p align="center">
-
 <a href = "https://www.instagram.com/miguel_avilagj/" target="blank"><img align="center" src="https://img.shields.io/twitter/url?color=gray&label=Instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fmiguel_avilagj%2F" alt="@unsimpledev"  /></a>
   </p>
 
@@ -10,7 +9,7 @@
 
 <p align="left">
 
-💻 
+💻 BACK-END 
 
 🎥 INGLES A2
 
@@ -64,3 +63,4 @@
 
 </p>        
 <!--- stats (end) -->
+
