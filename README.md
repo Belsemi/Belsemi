@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋  soy Miguel✨ </h1> 
-  <div style: "margin-left:200px">
+  <div style= "margin-left:200px">
   <img src="https://www.hdwallpapers.in/thumbs/2022/colorful_anime_scenery_hd_anime-t2.jpg"  style="width:800px; height:350px; " alt="Foto de perfil">
   </div>
 <p align="center">
