@@ -12,9 +12,12 @@
 <p align="left">
 
 🎥 INGLES A2 <br>
+
 💻 JAVA <br>
+
 💻  MYSQL <br>
-📝 SPRING BOOT <br>
+
+📝 SPRING BOOT 
 
 📫 Contacto: **sql2052@outlook.com**
 <!--Intro end-->
