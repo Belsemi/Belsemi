@@ -12,7 +12,8 @@
 <p align="left">
 
 🎥 INGLES A2
-
+💻 JAVA
+    MYSQL
 📝 SPRING BOOT /  
 
 📫 Contacto: **sql2052@outlook.com**
