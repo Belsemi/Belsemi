@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋  soy Miguel✨ </h1> 
   <div>
-  <img src="https://www.hdwallpapers.in/thumbs/2022/colorful_anime_scenery_hd_anime-t2.jpg"  style="width:800px; height:330px; " alt="Foto de perfil">
+  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2106&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  style="width:800px; height:330px; " alt="Foto de perfil">
   </div>
 <p align="center">
 <a href = "https://www.instagram.com/miguel_avilagj/" target="blank"><img align="center" src="https://img.shields.io/twitter/url?color=gray&label=Instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fmiguel_avilagj%2F" alt="@unsimpledev"  /></a>
