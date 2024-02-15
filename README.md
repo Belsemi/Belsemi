@@ -9,7 +9,7 @@
 
 <h1 align="center">Hola 👋 soy Miguel✨ </h1> 
 <div>
-    <img src="https://media.istockphoto.com/id/962464638/es/v%C3%ADdeo/c%C3%B3digo-binario-negro-y-verde-fondo-con-d%C3%ADgitos-en-pantalla-concepto-de-la-era-digital-binario.mp4?s=mp4-640x640-is&k=20&c=wMHWexoN8AmmlnJsboXyRtNO-gXyLCn3Usyoo5x0Akg="  style="width:800px; height:330px; " alt="Foto de perfil">
+    <img src="  style="width:800px; height:330px; " alt="Foto de perfil">
 </div>
 
 <p align="center">
