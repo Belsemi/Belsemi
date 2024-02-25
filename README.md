@@ -9,7 +9,7 @@
 
 <h1 align="center">Hola 👋 soy Miguel✨ </h1> 
 <div>
-    <img src="  style="width:800px; height:330px; " alt="Foto de perfil">
+    <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" width="ANCHO" height="ALTO" />
 </div>
 
 
