@@ -12,11 +12,6 @@
     <img src="  style="width:800px; height:330px; " alt="Foto de perfil">
 </div>
 
-<p align="center">
-  <div class="contenedor">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/R8lHaEZYpCU" frameborder="0" allowfullscreen></iframe>
-  </div>  
-</p>
 
 <h2>Sobre mi 😃 💻 </h2>
 <!--Intro start-->
