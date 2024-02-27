@@ -17,7 +17,7 @@
 <!--Intro start-->
 <p align="left">
     🎥 INGLES A2 <br>
-    💻 JAVA/MYSQL/SPRING BOOT <br>
+    💻 JAVA/MYSQL/SPRING BOOT/REACT <br>
     📫 Contacto: **sql2052@outlook.com**
 </p>
 <!--Intro end-->
