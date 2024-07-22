@@ -9,7 +9,7 @@
 
 <h1 align="center">Hola 👋 soy Miguel✨ </h1> 
 <div style="display: flex; justify-content: center;" >
-    <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" width="850" height="300" />
+    <img src="https://media.tenor.com/MdCwwLF6g7cAAAAM/rage-anime.gif" width="850" height="300" />
 </div>
 
 
