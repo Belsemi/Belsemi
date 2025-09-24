@@ -17,7 +17,7 @@
 <!--Intro start-->
 <p align="left">
     🎥 INGLES B1 <br>
-    💻 JAVA/MYSQL/SPRING BOOT/REACT <br>
+    💻 Data security<br>
     📫 Contacto: **sql2052@outlook.com**
 </p>
 <!--Intro end-->
@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,java,css,html,js,mysql,git,github,vscode" />
+        <img src="" />
     </a>
 </p>
 
