@@ -25,9 +25,7 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-    <a ">
-      
-    </a>
+   
 </p>
 
 </body>
