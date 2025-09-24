@@ -22,11 +22,7 @@
 </p>
 <!--Intro end-->
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-   
-</p>
+
 
 </body>
 </html>
