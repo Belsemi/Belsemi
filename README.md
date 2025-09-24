@@ -9,7 +9,7 @@
 
 <h1 align="center">Hola 👋 soy Miguel✨ </h1> 
 <div style="display: flex; justify-content: center;" >
-    <img src="https://media.tenor.com/MdCwwLF6g7cAAAAM/rage-anime.gif" width="850" height="300" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE3ZGVrbjZpcWtrOGNtaXRzNGR6MG1xb2pveWF0cnNiMHhjb3NmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNCFFZt9mv9C4GM1O3/giphy.gif" width="850" height="300" />
 </div>
 
 
