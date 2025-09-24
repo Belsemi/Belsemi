@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
     <a ">
-        <img src="" />
+      
     </a>
 </p>
 
