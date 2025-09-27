@@ -16,8 +16,7 @@
 <h2>Sobre mi 😃 💻 </h2>
 <!--Intro start-->
 <p align="left">
-    🎥 INGLES B1 <br>
-    💻 Data security<br>
+    💻 INGLES B1 <br>
     📫 Contacto: **sql2052@outlook.com**
 </p>
 <!--Intro end-->
