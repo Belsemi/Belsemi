@@ -16,7 +16,7 @@
 <h2>Sobre mi 😃 💻 </h2>
 <!--Intro start-->
 <p align="left">
-    💻 INGLES B2 <br>
+    .........................
 </p>
 <!--Intro end-->
 
